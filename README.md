@@ -4,11 +4,14 @@ This is a full-stack system for managing an agricultural warehouse using AI and 
 
 ## 📦 Components
 
-1. 🧠 [Vegetable Classifier - CNN + TensorFlow](https://github.com/YourUsername/Vegetable-Classifier-CNN-TensorFlow)  
+
+. 📡 [Embedded System - Raspberry Pi + ESP32]([https://github.com/YourUsername/Smart-Warehouse-RaspberryPi-ESP32](https://github.com/Oleg-lafer/Automated-Inventory-Management-System-RaspberryPi-ESP32))  
+   Integrates weight, temperature, and ultrasonic sensors with camera control and image prediction.
+
+. 🧠 [Vegetable Classifier - CNN + TensorFlow](https://github.com/YourUsername/Vegetable-Classifier-CNN-TensorFlow)  
    A deep learning model for identifying vegetables in images using InceptionV3 and OpenCV.
 
-2. 📡 [Embedded System - Raspberry Pi + ESP32](https://github.com/YourUsername/Smart-Warehouse-RaspberryPi-ESP32)  
-   Integrates weight, temperature, and ultrasonic sensors with camera control and image prediction.
+
 
 3. 🌐 [Warehouse Management Web App](https://github.com/YourUsername/Warehouse-Management-WebApp)  
    A web interface to track and manage vegetable inventory and sensor logs.
