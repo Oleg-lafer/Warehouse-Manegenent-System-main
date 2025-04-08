@@ -4,21 +4,18 @@ This is a full-stack system for managing an agricultural warehouse using AI and 
 
 ## 📦 Components
 
+1. 📡 [Embedded System - Raspberry Pi + ESP32](https://github.com/Oleg-lafer/Automated-Inventory-Management-System-RaspberryPi-ESP32)  
+   Integrates weight (HX711), temperature (DHT), and ultrasonic (HC-SR04) sensors with camera control and real-time image prediction.
 
-. 📡 [Embedded System - Raspberry Pi + ESP32]([https://github.com/YourUsername/Smart-Warehouse-RaspberryPi-ESP32](https://github.com/Oleg-lafer/Automated-Inventory-Management-System-RaspberryPi-ESP32))  
-   Integrates weight, temperature, and ultrasonic sensors with camera control and image prediction.
+2. 🧠 [Vegetable Classifier - CNN + TensorFlow](https://github.com/Oleg-lafer/Vegetable-Classifier-CNN-TensorFlow)  
+   A deep learning model for classifying vegetables in images, using TensorFlow (InceptionV3) and OpenCV for preprocessing.
 
-. 🧠 [Vegetable Classifier - CNN + TensorFlow](https://github.com/YourUsername/Vegetable-Classifier-CNN-TensorFlow)  
-   A deep learning model for identifying vegetables in images using InceptionV3 and OpenCV.
-
-
-
-3. 🌐 [Warehouse Management Web App](https://github.com/YourUsername/Warehouse-Management-WebApp)  
-   A web interface to track and manage vegetable inventory and sensor logs.
+3. 🌐 [Warehouse Management Web App](https://github.com/Oleg-lafer/Warehouse-Manegenent-App)  
+   A full-stack web interface for tracking vegetable inventory, visualizing sensor data, and managing warehouse operations.
 
 ## 🧩 System Architecture
 
-(Here you can add an image or diagram of how the pieces connect)
+_(Here you can add an image or diagram showing how the Raspberry Pi, ESP32, ML model, and web app communicate)_
 
 ---
 
