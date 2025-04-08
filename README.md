@@ -17,7 +17,7 @@ A complete system for managing an agricultural warehouse using Image Processing,
 
 ---
 
-## 🎬 Demo Video
+## 🎬 Demo Video of the Automated Inventory Management System
 
 [Watch the Automated Inventory Management System in action](https://www.youtube.com/watch?v=yazTxDFBqBg)
 
@@ -27,7 +27,7 @@ A complete system for managing an agricultural warehouse using Image Processing,
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots of the App
 
 <img src="Photos_demo/1.jpeg" width="25%">
 <img src="Photos_demo/2.jpeg" width="25%">
