@@ -1,6 +1,6 @@
 # Smart Agricultural Warehouse System 🌱
 
-A complete system for managing an agricultural warehouse using Image Processing, embedded systems, and a full-stack web interface.
+System for managing a warehouse (agricultural) using Image Processing, embedded systems, and a full-stack web interface.
 
 ---
 
