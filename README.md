@@ -29,12 +29,10 @@ System for managing a warehouse (agricultural) using Image Processing, embedded 
 
 ## 🖼️ Screenshots of the App
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="Photos_demo/1.jpeg" width="25%">
-  <img src="Photos_demo/2.jpeg" width="25%">
-  <img src="Photos_demo/3.jpeg" width="25%">
-  <img src="Photos_demo/4.jpeg" width="25%">
-</div>
+<img src="Photos_demo/1.jpeg" width="50%">
+<img src="Photos_demo/2.jpeg" width="50%">
+<img src="Photos_demo/3.jpeg" width="50%">
+<img src="Photos_demo/4.jpeg" width="50%">
 
 
 ---
