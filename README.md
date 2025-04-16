@@ -1,7 +1,8 @@
 # Smart Agricultural Warehouse System 🌱
 
 <small>
- Smart warehouse system (agricultural) using Raspberry Pi and a camera to classify items (vegetables) in the warehouse through image classification with a CNN model we trained. The system runs on Linux and integrates embedded components such as ESP32 with C++ firmware, interfacing with sensors including HX711 (weight), DHT (temperature), and HC-SR04 (object detection), enabling synchronization and automation of warehouse operations through the database of the application system built with React and Node.js. </small>
+ Smart warehouse system (agricultural) using Raspberry Pi and a camera to classify items (vegetables) in the warehouse through image classification with a CNN model we trained. The system runs on Linux and integrates embedded components such as ESP32 with C++ firmware, interfacing with sensors including HX711 (weight), DHT (temperature), and HC-SR04 (object detection), enabling synchronization and automation of warehouse operations through the database of the application system built with React and Node.js.
+</small>
 
 ---
 
