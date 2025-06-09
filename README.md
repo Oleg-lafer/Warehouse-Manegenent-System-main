@@ -21,7 +21,7 @@ Smart warehouse system (agricultural) using Raspberry Pi and a camera to classif
 
 ## 🎬 Demo Video of the Automated Inventory Management System
 
-[Watch the Automated Inventory Management System in action](https://www.youtube.com/watch?v=yazTxDFBqBg)
+[Watch the Automated Inventory Management System in action]([https://www.youtube.com/watch?v=yazTxDFBqBg](https://www.youtube.com/shorts/B_YcorkeZeA))
 
 <a href="https://www.youtube.com/watch?v=yazTxDFBqBg">
   <img src="thumbnail.PNG" width="33%" alt="Video Thumbnail">
